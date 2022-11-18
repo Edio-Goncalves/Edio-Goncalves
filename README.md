@@ -1,10 +1,9 @@
 ## Olá! Eu sou o Edio Gonçalves 👋
 
-- 🔭 Hoje estou em processo de aprendizagem 
-- 🌱 Estudando tecnologias para estar trabalhando com front-end
-- 📫 Email: ediogoncalvesjr@gmail.com
+- 🔭 Hoje estou em processo de aprendizagem constante
+- 🌱 Estudando as tecnologias para estar trabalhando com front-end
 - 😄 Pronomes: ele/dele
-- ⚡ Fato engraçado: Abri a porta para um cachorro, agora tenho um cachorro. (me sinto enganado 🤣)
+- ⚡ Fato engraçado: Atropelei um cachorro e felizmente nada aconteceu, agora tenho um cachorro. (me sinto enganado 🤣)
 
 ## 
 
@@ -27,8 +26,5 @@
  <a href = "mailto:ediogoncalvesjr@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href = "mailto:ediogoncalvesjr@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/edio-goncalves-jr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
