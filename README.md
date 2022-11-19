@@ -3,7 +3,7 @@
 - 🔭 Hoje estou em processo de aprendizagem constante
 - 🌱 Estudando as tecnologias para estar trabalhando com front-end
 - 😄 Pronomes: ele/dele
-- ⚡ Fato engraçado: Atropelei um cachorro e felizmente nada aconteceu, agora tenho um cachorro. (me sinto enganado 🤣)
+- ⚡ Fato engraçado: Atropelei um cachorro de rua e felizmente nada aconteceu🙏, agora tenho um cachorro. (me sinto enganado 🤣)
 
 ## 
 
