@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Edio Gonçalves 👋
 
-- 🔭 Em processo de aprendizagem constante
-- 🌱 Estudando as tecnologias para estar trabalhando com front-end
-- 😄 Pronomes: ele/dele
-- ⚡ Fato engraçado: Atropelei um dog de rua e felizmente nada aconteceu🙏, agora tenho um cachorro. (me sinto enganado 🤣)
+- 🔭 Em processo de aprendizagem constante.
+- 🌱 Estudando as tecnologias para estar trabalhando com front-end.
+- 😄 Cachorros latem sem motivo, gatos acordam seus donos à noite, e humanos podem fazer de tudo ou nada. Não espere que cachorros, gatos e humanos reflitam as vontades e expectativas que você tem sobre eles. Tentar fazer dos outros uma extensão de si mesmo é viver em frustração.
+- ⚡ Fato engraçado: "Atropelei" um dog de rua e felizmente nada aconteceu🙏, agora tenho um cachorro. (me sinto enganado 🤣).
 
 ## 
 
