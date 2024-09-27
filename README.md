@@ -2,7 +2,7 @@
 
 - 🔭 Em processo de aprendizagem constante.
 - 🌱 Estudando as tecnologias para estar trabalhando com front-end.
-- 😄 Cachorros latem sem motivo, gatos acordam seus donos à noite, e humanos podem fazer de tudo ou nada. Não espere que cachorros, gatos e humanos reflitam as vontades e expectativas que você tem sobre eles. Tentar fazer dos outros uma extensão de si mesmo é viver em frustração.
+- 😄 Cachorros latem sem motivo, gatos acordam seus donos à noite, e humanos podem fazer de tudo ou nada. Não espere que cachorros, gatos e humanos reflitam as vontades e expectativas que você tem sobre eles. Não faça dos outros uma extensão de si mesmo ou irá viver em frustração.
 - ⚡ Fato engraçado: "Atropelei" um dog de rua e felizmente nada aconteceu🙏, agora tenho um cachorro no meu sofá. (me sinto enganado 🤣).
 
 ## 
